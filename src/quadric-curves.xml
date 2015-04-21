@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is part of the book                -->
+<!--                                              -->
+<!--      A Second Course in Linear Algebra       -->
+<!--                                              -->
+<!-- Copyright (C) 2004-2014  Robert A. Beezer    -->
+<!-- See the file COPYING for copying conditions. -->
+
+<section xml:id="section-quadric-curves">
+    <title>Quadric Curves</title>
+    <author>
+        <personname>Alex Jordan</personname>
+        <!--
+        <department>Department of Mathematics</department>
+        <institution>Portland Community College<br />Portland, Oregon, USA</institution>
+        <email>alex.jordan@pcc.edu</email>
+        -->
+    </author>
+
+    <p><term>Quadric curves</term> have interested people for over two thousand years. This interest began with Greek mathematicians considering the shapes that could arise from a circular cone intersecting a plane. Such shapes are appropriately referred to as <term>conic sections</term>. Much has been learned about conic sections since then, including how they can be represented algebraically, as opposed to geometrically. If we start from the algebraic perspective, we will refer to these shapes as quadric curves instead of conic sections. An algebraic defintion has the advantage over a geometric defintion that it can be extended more easily to have meaning over <m>\complexes</m>. So we will begin with the algebraic perspective, and later come full circle to demonstrate that it is consistent with the geometric defintion of a conic section when all numbers are real.</p>
+
+</section>
