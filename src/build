@@ -1,0 +1,4 @@
+xsltproc -xinclude --stringparam "autoname" "yes" ../xsl/scla-html.xsl scla.xml
+xsltproc -xinclude --stringparam "autoname" "yes" --stringparam "latex.font.size" "12pt" --stringparam "latex.geometry" "letterpaper,total={6.25in,9.0in}" ../xsl/scla-latex.xsl scla.xml >> latexscla.tex
+pdflatex latexscla.tex
+pdflatex latexscla.tex
